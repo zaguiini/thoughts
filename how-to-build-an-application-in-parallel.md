@@ -1,4 +1,4 @@
-# how to build an application in paralel
+# how to build an application in parallel
 
 one of the biggest weaknesses of technology companies is effectively designing a development pipeline so that teams can be as productive as possible, relying on each other as much as possible, while at the same time reducing effort and therefore time spent on post-development tasks, chores, bugfixes et al
 
